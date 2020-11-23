@@ -1,6 +1,6 @@
 Group,tp_ParseIP,tp_UpdatePasswords,tp_OpenPWOs,tp_OSPFMap,tp_EEScript,tp_EasyReplace,tp_IPCalc,tp_ConfigBreakdown,tp_T1Service,tp_Validate,tp_Inventory,tp_Review,tp_Test,tp_TestDrop,tp_Remedy,tp_TND,tp_RBS,tp_SharePoint,btn_ParseIP_reviewUMMT,grpbx_ParseIP_Overall
 Full,,,,,,,,,,,,,,,,,,,,
-IPRAN,,,,,Hide,,,,,,,Hide,Hide,Hide,,Hide,,,Hide,
+IPRAN,,Hide,,,Hide,,,,,,,Hide,Hide,Hide,,Hide,,,Hide,
 EE,,Hide,,,,,,,,,,Hide,Hide,,,,,,Hide,Hide
 PM_NI,Hide,Hide,,,Hide,,,,,Hide,,Hide,Hide,Hide,,Hide,,,Hide,Hide
 AE_Planners,,Hide,Hide,,Hide,,,,,,,Hide,Hide,Hide,,,,,Hide,Hide
