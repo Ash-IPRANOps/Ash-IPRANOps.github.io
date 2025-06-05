@@ -1,36 +1,47 @@
 Name,Group,Note
-Abdallah.Merad,EE,
-Ader.Gomes,AE_Planners,
+**Delete**Baha.Mrad,AE_Planners,
+**Delete**bryan.randell,EE_EXT_Parallel,
+**Delete**Claudio.Liquete,EE,BC
+**Delete**Glenn.Alsaker,EE,
+**Delete**Hani.Abraham,AE_Planners,
+**Delete**hussein.kadib,NI Central,
+**Delete**jordan.tontini,AE_Planners,
+**Delete**mariomanuel.martinez,FOP, by Jimy
+**Delete**maxime.santerre,EE,
+**Delete**Mohammed.Manjuruzzam,EE,EXT
+**Delete**mohinder.sidana,EE_EXT_Wavestar,
+**Delete**Mokarram.Hossain,EE_EXT_SMC,
+**Delete**muhammad.ramzan,EE_EXT_Parallel,
+**Delete**murtaza.khademi,AE_Planners,Direct Ext West/MW
+**Delete**Nastaran.Rahnama,EE,EXT
+**Delete**Salma.Fazazi,EE,
+**Delete**shrey.sharma,SIRA_Team,for SAR_STR
+**Delete**Tanvi.Parmar,EE_EXT_Roger,
+**Delete**Tanvir.Jalil,EE_EXT_SMC,
+**Delete**Taqi.Raza1,EE_EXT_SMC,
+**Delete**Virgilio.Rodriguez,AE_Planners,Direct Ext West/MW
+**Delete**Wajeeha.Ibrahim,EE_EXT_SMC,
+**Delete**Weijun.Bi,EE,
 /Afsana.Akhtar,EE_EXT_SMC,
 /Aftab.Hossen,EE_EXT_SMC,
 /ahmer,EE_EXT_SMC,Ahmer.Rasheed
-Alain.Maniquiz,EE,
 /alamgir.hossain1,EIT,by Jimy
 /Alex.Chiu,PM_NI,
 /allen.partol,EE_EXT_Wavestar EIT,allen.partol
 /Alvin.Li,EE,
 /Alvin.Li1,EE_EXT_SMC,
 /Andre.Yim,EE,
-ash.rezqalla,Full,
 /Asif.Firdous,EE_EXT_SMC,
 /ayaz.lodhi,IPRAN,
-azimul.islam,EE,
-/Baha.Mrad,AE_Planners,
-Bahaa.Jaafar,EE,
 /bing.chou,EE_EXT_Wavestar,
-/bryan.randell,EE_EXT_Parallel,
 /Chamitha.DeSilva,AE_Planners,
 /Charl,EE_EXT_Dunsby,Charlie.Dunsby
 /Charles.zhang,EE,
 /Charlie.Dunsby,EE_EXT_Dunsby,
-/Claudio.Liquete,EE,BC
-Cyrone.Urbano,EE,
 /David.Mo,AE_Planners,
 /Denis.Prelogov,EE,
 /denis.prelogov,Procom,by Yuriy
 /Dmytro.Fedotov,Fifth Lab,by Yuriy
-edward.bittar,EE,
-Edward.Lan,EE,
 /efren.galanto,EE_EXT_Wavestar,
 /eric.meng,EE_EXT_Wavestar,
 /ericmin.yang,EE,eric.yang1@rci.rogers.com
@@ -38,17 +49,13 @@ Edward.Lan,EE,
 /Farzana.Nawrin,EE_EXT_SMC,
 /Felipe.Solano,EE,
 /Gerry.Rumbaua,AE_Planners,
-/Glenn.Alsaker,EE,
 /Glenn.Ross,AE_Planners,
 /Gonzalo.Portacio,EE,EXT
 /Greg.Harris,EE_EXT_Parallel,
-/Hani.Abraham,AE_Planners,
 /Harjot.Randhawa,IPRAN,
 /harsh.panchal,IPRAN,
-/Hasnat.Ahmed,EE,
 /Homer.Abejuro,AE_Planners,
 /Hugh.Chen,EE,
-/hussein.kadib,NI Central,
 /Ihsene.Rabah,AE_Planners,
 /ines.alani,EE_EXT_SMC,
 /Irfan.Hassan,EE_EXT_SMC,
@@ -59,79 +66,72 @@ Edward.Lan,EE,
 /Jasper.Mercado,AE_Planners,
 /Jasper.Mercado,AE_Planners,
 /jasper.villanueva,EE_EXT_Wavestar,
-/Javier.Krentzien,EE,
 /Jeffrey.Hickey,EE_EXT_Parallel,
 /Jimmy.Quan,IT,
 /jing.jiang,EE_EXT_Wavestar,
 /John.Angeles,EE,EXT
-/jordan.tontini,AE_Planners,
 /Jovie.Marcelo,EE,EXT
 /Kamen.Garnenkov,EE,
 /Kamrul.Mozumder,EE,
-KarenJane.Mangay,EE,
 /Larissa.Li,EE,EXT Central
 /Larissa.Li1,EE,EXT Central
 /Maira.Manji,EE,
 /Mansoor.Chughtai,SIRA_Team,for SAR_STR
-/mariomanuel.martinez,FOP, by Jimy
-Mark.Khoury,EE,
 /mathieu.roy,IPRAN,
-/maxime.santerre,EE,
 /michael.lagrange,AE_Planners,
 /Michel.Sawires,EE,
 /MING.YANG1,AE_Planners,
 /Mirza.Sadid,EE_EXT_SMC,
-/Mohammed.Manjuruzzam,EE,EXT
-/mohinder.sidana,EE_EXT_Wavestar,
-/Mokarram.Hossain,EE_EXT_SMC,
 /Muhammad.Iqbal,EE_EXT_SMC,
-/muhammad.ramzan,EE_EXT_Parallel,
-/murtaza.khademi,AE_Planners,Direct Ext West/MW
 /Mykola.Gaman,Fifth Lab,by Yuriy
 /n.indraatmadja,NOC,
-Narinder.Thakur,AE_Planners,
-/Nastaran.Rahnama,EE,EXT
 /patrice.roy,FOPS,
 /Qingnian.Wang,AE_Planners,
 /Rahul.Dua,IPRAN,
 /Reynante.Aniel,EE,
 /Richard.Zhu,EE_EXT_EIT,
 /Richard.Zhu1,EE_EXT_EIT,
-Roderick.Agulto,AE_Planners,
 /S.Sithamparanathan,EE,
 /saima.idrees,EE_EXT_SMC,
-/Salma.Fazazi,EE,
 /Sariful.Alam,EE_EXT_SMC,
 /serge.cimpaye,IPRAN,
 /sergiy.karachevtsev,EE_EXT_Fifth_Lab, approved by Jimmy/Yuriy
 /shahab.hasan,EE_EXT_Wavestar,
 /Shammaas.Baig,EE_EXT_SMC,
 /Shamsus.Zaman,EE_EXT_SMC,
-/Sherry.Pu,SIRA_Team,for SAR_STR
 /shoaib.ahmad,EE_EXT_SMC,
-/shrey.sharma,SIRA_Team,for SAR_STR
 /smc,EE_EXT_SMC,muhammad.azhar
 /stephane.belliveau,IPRAN,
 /steve.molloy,EE_EXT_Parallel,
-Steven.Zhou,EE,
-/Sukhjiwan.Singh,SIRA_Team,for SAR_STR
 /sukhwinder.dhillon,IPRAN,
-/Tanvi.Parmar,EE_EXT_Roger,
-/Tanvir.Jalil,EE_EXT_SMC,
-/Taqi.Raza1,EE_EXT_SMC,
 /tariq.syed,AE_Planners,
-Tommy.Fortier,EE,
 /trupal.javia,EE_EXT_Wavestar,
 /Valentino.DelRosario,EE,
 /Viktoriia.Shmidt,EE_EXT_Fifth_Lab, approved by Jimmy/Yuriy
 /Vinod.Singla,IPRAN,
-/Virgilio.Rodriguez,AE_Planners,Direct Ext West/MW
 /Vitalii.Horlevskyi,EE_EXT_Fifth_Lab, approved by Jimmy/Yuriy
 /vyacheslav.furyst,EE_EXT_Fifth_Lab, approved by Jimmy/Yuriy
-/Wajeeha.Ibrahim,EE_EXT_SMC,
 /Wayne.Leblanc,EE_EXT_SMC,
-/Weijun.Bi,EE,
-Yanick.Fournier,EE,
 /Yuriy.Grygoryev,EE,
 /Yuriy.Purey,Fifth Lab,by Yuriy
+Abdallah.Merad,EE,
+Ader.Gomes,AE_Planners,
+Alain.Maniquiz,EE,
+ash.rezqalla,Full,
+azimul.islam,EE,
+Bahaa.Jaafar,EE,
+Cyrone.Urbano,EE,
+edward.bittar,EE,
+Edward.Lan,EE,
+Hasnat.Ahmed,EE,
+Javier.Krentzien,EE,
+KarenJane.Mangay,EE,
+Mark.Khoury,EE,
+Narinder.Thakur,AE_Planners,
+Roderick.Agulto,AE_Planners,
+Sherry.Pu,SIRA_Team,for SAR_STR
+Steven.Zhou,EE,
+Sukhjiwan.Singh,SIRA_Team,for SAR_STR
+Tommy.Fortier,EE,
+Yanick.Fournier,EE,
 zeeshan.gul,EE,
